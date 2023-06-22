@@ -15,3 +15,9 @@ https://docs.github.com/en/codespaces/customizing-your-codespace/personalizing-g
 * `ignored`: Show ignored files in repository
 * `pushf`: Force push with lease
 * `reuse`: Commit with last message
+
+## Bash
+
+### Aliases
+
+* `ll`: Show files in list with human-readable size and type/flag indicators (color + symbol)
